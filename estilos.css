@@ -1,0 +1,88 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: rgb(178, 209, 236);
+}
+header{
+    
+    top: 0;
+    padding: 20px;
+    
+}
+
+h1{
+    
+    font-family: 'Times New Roman', Times, serif;
+    text-align: start;
+    color: rgba(0, 110, 255, 0.856);
+}
+nav{
+    text-align: end ;
+ 
+}
+
+ul li {
+        padding: 20px;  
+    display: inline;
+    color: rgba(0, 110, 255, 0.856);
+}
+a{
+    text-decoration: none;
+    color: rgb(97, 78, 55);
+}
+main{
+    background-color: rgb(247, 230, 208);
+}
+h2{
+    padding: 10px;
+    font-size: 30px;
+    text-align: start;
+    color: rgb(16, 80, 100);
+}
+h3{
+    font-size: 30px;
+}
+form{
+    text-align: center;
+}
+.divIdaVuleta{
+    padding: 30px;
+}
+.imagenes{
+    display: flex;
+    padding: 30px;
+}
+.imagen{
+    
+  margin: 10px;
+    padding:5px;
+    height: 400px;
+    border: 5px solid beige;
+    border-radius: 20px ;
+}
+img{
+ 
+    width: 200px;
+    height: 250px;
+    border-radius: 20px;
+  
+
+}
+span{
+    color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 20px;
+}
+footer{
+    background-color: rgb(59, 31, 31);
+    padding: 50px;
+}
+h6{
+color: aqua;
+text-align: end;
+text-align: center;
+
+}
